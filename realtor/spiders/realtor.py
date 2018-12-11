@@ -12,7 +12,7 @@ from scrapy.http.request import Request
 
 class RealtorSpider(scrapy.Spider):
     name = 'realtor'
-    #allowed_domains = ['wwwb.autotrader.ca']
+   
    
 
     
